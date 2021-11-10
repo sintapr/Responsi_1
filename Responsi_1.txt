@@ -3,3 +3,5 @@ Responsi 1 Sistem Operasi Praktikum
 - Memindahkan File
 
 2. CARA MENGGUNAKAN GITHUP:
+- Membuat repository baru 
+- Membuat Branch
