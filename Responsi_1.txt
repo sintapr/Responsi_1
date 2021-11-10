@@ -1,5 +1,9 @@
 Responsi 1 Sistem Operasi Praktikum
 1. CARA MENGGUNAKAN COMMAND PROMPT:
-- Memindahkan File
+- Memindahkan File- Menyalin File 
+- Menyalin Folder 
+- Menghapus File
+- Menghapus Folder 
 
-2. CARA MENGGUNAKAN GITHUP:
+
+
