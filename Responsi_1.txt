@@ -4,6 +4,8 @@ Responsi 1 Sistem Operasi Praktikum
 - Menyalin Folder 
 - Menghapus File
 - Menghapus Folder 
-
-
+2. CARA MENGGUNAKAN GITHUP:
+- Membuat repository baru 
+- Membuat Branch
+- Melakukan Merge Branch pada main
 
