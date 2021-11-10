@@ -1,1 +1,3 @@
 Responsi 1 Sistem Operasi Praktikum
+1. CARA MENGGUNAKAN COMMAND PROMPT:
+- Memindahkan File
