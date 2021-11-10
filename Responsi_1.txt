@@ -5,3 +5,4 @@ Responsi 1 Sistem Operasi Praktikum
 2. CARA MENGGUNAKAN GITHUP:
 - Membuat repository baru 
 - Membuat Branch
+- Melakukan Merge Branch pada main
